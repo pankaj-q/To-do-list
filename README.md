@@ -33,7 +33,7 @@ A clean, responsive, and user-friendly Todo List application built with HTML, CS
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/todo-list.git
+git clone https://github.com/pankaj-q/todo-list.git
 ```
 
 2. Navigate to the project directory:
@@ -45,17 +45,17 @@ cd todo-list
 
 ## Usage
 
-1. **Add a Task**
+1. Add a Task
    - Type your task in the input field
    - Click the '+' button or press Enter
 
-2. **Complete a Task**
+2. Complete a Task
    - Click the checkbox next to the task
 
-3. **Delete a Task**
+3. Delete a Task
    - Click the trash icon next to the task
 
-4. **Filter Tasks**
+4. Filter Tasks
    - Use the filter buttons to view:
      - All tasks
      - Active tasks
@@ -103,7 +103,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Pankaj**
+PANKAJ KUMAR
 
 ## Acknowledgments
 
